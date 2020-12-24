@@ -4,7 +4,7 @@
  * @Author: pengheyan
  * @Date: 2020-12-22 15:46:58
  * @LastEditors: pengheyan
- * @LastEditTime: 2020-12-24 11:31:19
+ * @LastEditTime: 2020-12-24 14:13:13
 -->
 <template>
   <div id="app">
@@ -13,8 +13,8 @@
   </div>
 </template>
 <script>
-import Login from './views/login/Login'
-import MapHome from './views/MapHome';
+import Login from 'views/login/Login'
+import MapHome from 'views/MapHome';
 export default {
   name:'App',
   components:{MapHome,Login}

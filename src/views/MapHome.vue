@@ -4,7 +4,7 @@
  * @Author: pengheyan
  * @Date: 2020-12-22 15:53:45
  * @LastEditors: pengheyan
- * @LastEditTime: 2020-12-24 11:29:42
+ * @LastEditTime: 2020-12-24 14:09:41
 -->
 <template>
   <div class="map-home-wrap">
@@ -14,8 +14,8 @@
   </div>
 </template>
 <script>
-import mapConfig from "../global/mapConfig";
-import urlConfig from '../global/urlConfig';
+import mapConfig from "global/mapConfig";
+import urlConfig from 'global/urlConfig';
 export default {
   name: "MapHome",
   data() {

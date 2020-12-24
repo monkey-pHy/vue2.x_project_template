@@ -4,7 +4,7 @@
  * @Author: pengheyan
  * @Date: 2020-12-22 15:46:58
  * @LastEditors: pengheyan
- * @LastEditTime: 2020-12-24 13:29:47
+ * @LastEditTime: 2020-12-24 14:11:55
  */
 import Vue from 'vue'
 import App from './App.vue'
@@ -15,7 +15,7 @@ import 'element-ui/lib/theme-chalk/index.css';
 import ElementUI from 'element-ui';
 
 //重置浏览器以及地图默认样式
-import './assets/scss/reset.scss'
+import 'assets/scss/reset.scss'
 
 //引入li-flexible
 import './util/rem'
